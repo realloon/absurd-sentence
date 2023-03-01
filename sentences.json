@@ -1,0 +1,560 @@
+[
+  {
+    "original": "With my own ears I clearly heard the heart beat of the nuclear bomb.",
+    "translate": "我亲耳清楚地听到原子弹的心跳的跳动。",
+    "string": [
+      "With my own",
+      { "surface": "ears", "word": "ear", "translate": { "n": "耳朵" } },
+      "I",
+      {
+        "surface": "clearly",
+        "word": "clearly",
+        "translate": { "a": "清楚的", "ad": "清楚地" }
+      },
+      {
+        "surface": "heard",
+        "word": "hear",
+        "translate": {
+          "v": "听到，听说，听取"
+        }
+      },
+      "the",
+      {
+        "surface": "heart",
+        "word": "heart",
+        "translate": {
+          "n": "心，中心，要点",
+          "v": "鼓起勇气，激励"
+        }
+      },
+      {
+        "surface": "beat",
+        "word": "beat",
+        "translate": {
+          "n": "打，敲打声，拍子",
+          "v": "打，打败"
+        }
+      },
+      "of the nuclear bomb."
+    ]
+  },
+  {
+    "original": "Next year the beared bear will bear a dear baby in the rear.",
+    "translate": "明年，长胡子的熊将在后方产一头可爱的小崽。",
+    "string": [
+      "Next",
+      {
+        "surface": "year",
+        "word": "year",
+        "translate": {
+          "a": "每年的",
+          "ad": "每年",
+          "n": "年"
+        }
+      },
+      "the",
+      {
+        "surface": "bearded",
+        "word": "beard",
+        "translate": {
+          "n": "胡须"
+        }
+      },
+      {
+        "surface": "bear",
+        "word": "bear",
+        "translate": {
+          "n": "熊",
+          "v": "忍受，负荷；结果实，生子女"
+        }
+      },
+      "will bear",
+      "a",
+      {
+        "surface": "dear",
+        "word": "dear",
+        "translate": {
+          "a": "亲爱的",
+          "int": "啊，哎呀",
+          "n": "亲爱的人"
+        }
+      },
+      "baby in the",
+      "",
+      {
+        "surface": "rear",
+        "word": "rear",
+        "translate": {
+          "n": "后面，背后",
+          "a": "后面的，背面的，后方的",
+          "v": "养育，饲养，举起"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "Early I searched through the earth for earthenware so as to research in earthquake.",
+    "translate": "早先我在泥土中搜寻陶器以研究地震。",
+    "string": [
+      "Early I ",
+      {
+        "surface": "searched",
+        "word": "search",
+        "translate": {
+          "n": "搜索，探究",
+          "v": "搜寻，探求，调查"
+        }
+      },
+      "through the",
+      {
+        "surface": "earth",
+        "word": "earth",
+        "translate": {
+          "n": "地球；土壤"
+        }
+      },
+      "for ",
+      {
+        "surface": "earthenware",
+        "word": "earthenware",
+        "translate": {
+          "n": "陶器"
+        }
+      },
+      "so as to",
+      {
+        "surface": "research",
+        "word": "research",
+        "translate": {
+          "v": "调查，研究"
+        }
+      },
+      "in ",
+      {
+        "surface": "earthquake",
+        "word": "earthquake",
+        "translate": {
+          "n": "地震"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "I learn that learned earnest men earn much by learning.",
+    "translate": "我得知有学问而认真的人靠学问挣很多钱。",
+    "string": [
+      "I",
+      {
+        "surface": "learn",
+        "word": "learn",
+        "translate": {
+          "v": "学习，获悉，记住，了解"
+        }
+      },
+      "that ",
+      {
+        "surface": "learned",
+        "word": "learned",
+        "translate": {
+          "a": "有学问的，博学的"
+        }
+      },
+
+      {
+        "surface": "earnest",
+        "word": "earnest",
+        "translate": {
+          "n": "定金，诚挚，认真",
+          "a": "认真的，热心的，重要的"
+        }
+      },
+      "men ",
+      {
+        "surface": "earn",
+        "word": "earn",
+        "translate": {
+          "v": "赚得，活得，博得"
+        }
+      },
+      "much by ",
+      {
+        "surface": "learning",
+        "word": "learning",
+        "translate": {
+          "n": "学问，学识，学习",
+          "vbl": "学习，获悉，记住"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "She swears to wear the pearls that appear to be pears.",
+    "translate": "她发誓要戴那些看起来像梨子的珍珠。",
+    "string": [
+      "She",
+      {
+        "surface": "swears",
+        "word": "swear",
+        "translate": {
+          "v": "发誓，宣誓，咒骂"
+        }
+      },
+      "to",
+      {
+        "surface": "wear",
+        "word": "wear",
+        "translate": {
+          "n": "穿著，磨损，耐久性",
+          "v": "穿著，用旧，耗损"
+        }
+      },
+      "the",
+      {
+        "surface": "pearls",
+        "word": "pearl",
+        "translate": {
+          "n": "珍珠",
+          "v": "用珍珠装饰"
+        }
+      },
+      "that",
+      {
+        "surface": "appear",
+        "word": "appear",
+        "translate": {
+          "v": "出现，显得"
+        }
+      },
+      "to be",
+      {
+        "surface": "pears",
+        "word": "pear",
+        "translate": {
+          "n": "梨"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "I nearly fear to tear the tearful girl’s test paper.",
+    "translate": "我几乎害怕撕那个泪流满面的女孩的试卷。",
+    "string": [
+      "I",
+      {
+        "surface": "nearly",
+        "word": "nearly",
+        "translate": {
+          "ad": "几乎，差不懂"
+        }
+      },
+      {
+        "surface": "fear",
+        "word": "fear",
+        "translate": {
+          "n": "恐怖，害怕，担心",
+          "v": "害怕，恐惧，敬畏"
+        }
+      },
+      "to",
+      {
+        "surface": "tear",
+        "word": "tear",
+        "translate": {
+          "n": "眼泪，撕破",
+          "v": "流泪，撕破"
+        }
+      },
+      "the",
+      {
+        "surface": "tearful",
+        "word": "tearful",
+        "translate": {
+          "a": "含泪的，悲伤的"
+        }
+      },
+      "girl’s test paper."
+    ]
+  },
+  {
+    "original": "The bold folk fold up the gold and hold it in hand.",
+    "translate": "大胆的人们将黄金折叠起来拿在手里。",
+    "string": [
+      "The",
+      {
+        "surface": "bold",
+        "word": "bold",
+        "translate": {
+          "a": "大胆的，粗体的，醒目的"
+        }
+      },
+      {
+        "surface": "folk",
+        "word": "folk",
+        "translate": {
+          "n": "人们",
+          "a": "民间的"
+        }
+      },
+      {
+        "surface": "fold",
+        "word": "fold",
+        "translate": {
+          "n": "折层，羊栏，折痕",
+          "v": "折叠，包，交叉"
+        }
+      },
+      "up the",
+      {
+        "surface": "gold",
+        "word": "gold",
+        "translate": {
+          "a": "含金的，金制的",
+          "n": "金子"
+        }
+      },
+      "and",
+      {
+        "surface": "hold",
+        "word": "hold",
+        "translate": {
+          "v": "握住，拿着，持有",
+          "n": "把握，控制，船舱"
+        }
+      },
+      "it in hand."
+    ]
+  },
+  {
+    "original": "The customers are accustomed to the disgusting custom.",
+    "translate": "顾客们习惯了令人讨厌的风俗。",
+    "string": [
+      "The",
+      {
+        "surface": "customers",
+        "word": "customer",
+        "translate": {
+          "n": "顾客"
+        }
+      },
+      "are",
+      {
+        "surface": "accustomed",
+        "word": "accutsomed",
+        "translate": {
+          "adj": "惯常的。习惯的"
+        }
+      },
+      "to the disgusting",
+      {
+        "surface": "custom",
+        "word": "custom",
+        "translate": {
+          "n": "习俗，风俗，海关"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "The dust in the industrial zone frustrated the industrious man.",
+    "translate": "工业区里的灰尘使勤勉的人灰心。",
+    "string": [
+      "The ",
+      {
+        "surface": "dust",
+        "word": "dust",
+        "translate": {
+          "n": "灰尘，尘埃",
+          "v": "拂去灰尘"
+        }
+      },
+      "in the ",
+      {
+        "surface": "industrial",
+        "word": "industrial",
+        "translate": {
+          "a": "工业的，产业的"
+        }
+      },
+      "zone ",
+      {
+        "surface": "frustrated",
+        "word": "frustrate",
+        "translate": {
+          "v": "挫败，击败，毁坏",
+          "a": "无益的，挫败的，挫折的"
+        }
+      },
+      "the ",
+      {
+        "surface": "industrious",
+        "word": "industrious",
+        "translate": {
+          "a": "勤劳的，勤奋的"
+        }
+      },
+      "man."
+    ]
+  },
+  {
+    "original": "The just budget judge just justifies the adjustment of justice.",
+    "translate": "公正的预算法官只不过为司法调整辩护而已。",
+    "string": [
+      "The",
+      {
+        "surface": "just",
+        "word": "just",
+        "translate": {
+          "a": "公正的，公平的",
+          "ad": "正好，恰好"
+        }
+      },
+      "budget",
+      {
+        "surface": "judge",
+        "word": "judge",
+        "translate": {
+          "n": "法官",
+          "v": "裁决，判断，审判",
+          "vt": "断定，判断"
+        }
+      },
+      "just",
+      {
+        "surface": "justifies",
+        "word": "justify",
+        "translate": {
+          "v": "替……辩护，证明，证明正当",
+          "code": "调整"
+        }
+      },
+      "the",
+      {
+        "surface": "adjustment",
+        "word": "adjustment",
+        "translate": {
+          "n": "调整"
+        }
+      },
+      "of",
+      {
+        "surface": "earthjustice",
+        "word": "justice",
+        "translate": {
+          "n": "司法，正义，公正；上述法庭的法官"
+        }
+      },
+      "."
+    ]
+  },
+  {
+    "original": "I used to abuse the unusual usage, but now I’m not used to doing so.",
+    "translate": "我过去常滥用这个不寻常的用法，但我现在不习惯这样做。",
+    "string": [
+      "I",
+      {
+        "surface": "used to",
+        "word": "used to",
+        "translate": {
+          "mean": "过去常常"
+        }
+      },
+      {
+        "surface": "abuse",
+        "word": "abuse",
+        "translate": {
+          "n": "滥用，恶习",
+          "v": "滥用，辱骂，虐待"
+        }
+      },
+      "the",
+      {
+        "surface": "unusual",
+        "word": "unusual",
+        "translate": {
+          "a": "不平常的，异常的"
+        }
+      },
+      {
+        "surface": "usage",
+        "word": "usage",
+        "translate": {
+          "n": "惯用法，使用，用法"
+        }
+      },
+      ", but now I’m",
+      {
+        "surface": "not used to",
+        "word": "be used to",
+        "translate": {
+          "mean": "被用来"
+        }
+      },
+      "doing so."
+    ]
+  },
+  {
+    "original": "The necklace placed in the palace is replaced first, and displaced later.",
+    "translate": "放在皇宫的项链先是被偷梁换柱，后来又被转移。",
+    "string": [
+      "The necklace placed in the palace is replaced first, and displaced later."
+    ]
+  },
+  {
+    "original": "I paced in the peaceful spacecraft.",
+    "translate": "我在宁静的宇宙飞船里踱步。",
+    "string": ["I paced in the peaceful spacecraft."]
+  },
+  {
+    "original": "Sir, your bird stirred my girlfriend’s birthday party.",
+    "translate": "先生，你的鸟搅了我女友的生日聚会。",
+    "string": ["Sir, your bird stirred my girlfriend’s birthday party."]
+  },
+  {
+    "original": "The waterproof material is suitable for the aerial used near the waterfall.",
+    "translate": "这种耐水材料适合用在瀑布附近的天线。",
+    "string": [
+      "The waterproof material is suitable for the aerial used near the waterfall."
+    ]
+  },
+  {
+    "original": "I hint that the faint saint painted the printer with a pint of paint.",
+    "translate": "我暗示说虚弱的圣徒用了一品脱油漆涂印刷机。",
+    "string": [
+      "I hint that the faint saint painted the printer with a pint of paint."
+    ]
+  },
+  {
+    "original": "At any rate, the separation ratio is accurate.",
+    "translate": "无论如何，这个分离比是精确的。",
+    "string": ["At any rate, the separation ratio is accurate."]
+  },
+  {
+    "original": "The boundary around the round ground separates us from the surroundings.",
+    "translate": "围绕着圆形场地的边界将我们同四周隔开。",
+    "string": [
+      "The boundary around the round ground separates us from the surroundings."
+    ]
+  },
+  {
+    "original": "The blunder made the underground instrument undergo an undermining of the thunderbolt.",
+    "translate": "这个失策让地下仪器经受了一次雷电的破坏。",
+    "string": [
+      "The blunder made the underground instrument undergo an undermining of the thunderbolt."
+    ]
+  },
+  {
+    "original": "The tilted salt filters halt alternately for altering.",
+    "translate": "倾斜的盐过滤器交替地停下以便改造。",
+    "string": ["The tilted salt filters halt alternately for altering."]
+  },
+  {
+    "original": "",
+    "translate": "",
+    "string": []
+  }
+]
